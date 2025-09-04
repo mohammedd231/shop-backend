@@ -1,0 +1,15 @@
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\bin\Debug\net8.0\ShopApplication.Application.deps.json
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\bin\Debug\net8.0\ShopApplication.Application.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\bin\Debug\net8.0\ShopApplication.Application.pdb
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\bin\Debug\net8.0\ShopApplication.Domain.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\bin\Debug\net8.0\ShopApplication.Domain.pdb
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.csproj.AssemblyReference.cache
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.AssemblyInfoInputs.cache
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.AssemblyInfo.cs
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopAppl.73207750.Up2Date
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\refint\ShopApplication.Application.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ShopApplication.Application.pdb
+C:\Users\PROMISE\ShopApplication\ShopApplication.Application\obj\Debug\net8.0\ref\ShopApplication.Application.dll

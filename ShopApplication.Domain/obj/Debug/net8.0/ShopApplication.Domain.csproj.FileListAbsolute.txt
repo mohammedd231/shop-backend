@@ -1,0 +1,11 @@
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\bin\Debug\net8.0\ShopApplication.Domain.deps.json
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\bin\Debug\net8.0\ShopApplication.Domain.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\bin\Debug\net8.0\ShopApplication.Domain.pdb
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.AssemblyInfo.cs
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\refint\ShopApplication.Domain.dll
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ShopApplication.Domain.pdb
+C:\Users\PROMISE\ShopApplication\ShopApplication.Domain\obj\Debug\net8.0\ref\ShopApplication.Domain.dll
